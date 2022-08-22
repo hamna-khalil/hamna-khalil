@@ -1,6 +1,6 @@
-- Hi there!
-- My name is Hamna Khalil and I am currently pursuing a bachelor's degree in Software Engineering from Fatima Jinnah Women Universiy.
-- Moreover, I am also working as a volunteer with IEEE and E-Read Pakistan.
+Hi there!
+
+My name is Hamna Khalil and I am currently pursuing a bachelor's degree in Software Engineering from Fatima Jinnah Women Universiy. Moreover, I am also working as a volunteer with IEEE and E-Read Pakistan.
 
 
 <!---
